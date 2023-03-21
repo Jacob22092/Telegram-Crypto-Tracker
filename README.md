@@ -2,6 +2,7 @@
 
 A simple Telegram bot that provides current cryptocurrency prices using the [CCXT](https://github.com/ccxt/ccxt) library.
 
+![](https://cdn.discordapp.com/attachments/838519186950586398/1087842708866998414/image.png)
 ## Features
 
 - Fetch current cryptocurrency prices from Binance
